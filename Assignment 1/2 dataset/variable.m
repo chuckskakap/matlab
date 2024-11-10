@@ -1,0 +1,1 @@
+[population, fitness_score, progress] = run_ann_withGA_model1();

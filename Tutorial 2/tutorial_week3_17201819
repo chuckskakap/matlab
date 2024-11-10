@@ -1,0 +1,692 @@
+ a = 5; x = 2; y = 8;
+y = exp(-a)*sin(x)+10*sqrt(y)
+
+y =
+
+   28.2904
+
+
+log(142)
+
+ans =
+
+    4.9558
+
+log(142)
+
+ans =
+
+    4.9558
+
+log10(142)
+
+ans =
+
+    2.1523
+
+sin(pi/4)
+
+ans =
+
+    0.7071
+
+exp(10)
+
+ans =
+
+   2.2026e+04
+
+x = [1 2 3 4 5 6];
+y = [3 -1 2 4 5 1];
+plot(x,y)
+x = 0: pi/100:2*pi;
+y = sin(x)
+
+y =
+
+  Columns 1 through 4
+
+         0    0.0314    0.0628    0.0941
+
+  Columns 5 through 8
+
+    0.1253    0.1564    0.1874    0.2181
+
+  Columns 9 through 12
+
+    0.2487    0.2790    0.3090    0.3387
+
+  Columns 13 through 16
+
+    0.3681    0.3971    0.4258    0.4540
+
+  Columns 17 through 20
+
+    0.4818    0.5090    0.5358    0.5621
+
+  Columns 21 through 24
+
+    0.5878    0.6129    0.6374    0.6613
+
+  Columns 25 through 28
+
+    0.6845    0.7071    0.7290    0.7501
+
+  Columns 29 through 32
+
+    0.7705    0.7902    0.8090    0.8271
+
+  Columns 33 through 36
+
+    0.8443    0.8607    0.8763    0.8910
+
+  Columns 37 through 40
+
+    0.9048    0.9178    0.9298    0.9409
+
+  Columns 41 through 44
+
+    0.9511    0.9603    0.9686    0.9759
+
+  Columns 45 through 48
+
+    0.9823    0.9877    0.9921    0.9956
+
+  Columns 49 through 52
+
+    0.9980    0.9995    1.0000    0.9995
+
+  Columns 53 through 56
+
+    0.9980    0.9956    0.9921    0.9877
+
+  Columns 57 through 60
+
+    0.9823    0.9759    0.9686    0.9603
+
+  Columns 61 through 64
+
+    0.9511    0.9409    0.9298    0.9178
+
+  Columns 65 through 68
+
+    0.9048    0.8910    0.8763    0.8607
+
+  Columns 69 through 72
+
+    0.8443    0.8271    0.8090    0.7902
+
+  Columns 73 through 76
+
+    0.7705    0.7501    0.7290    0.7071
+
+  Columns 77 through 80
+
+    0.6845    0.6613    0.6374    0.6129
+
+  Columns 81 through 84
+
+    0.5878    0.5621    0.5358    0.5090
+
+  Columns 85 through 88
+
+    0.4818    0.4540    0.4258    0.3971
+
+  Columns 89 through 92
+
+    0.3681    0.3387    0.3090    0.2790
+
+  Columns 93 through 96
+
+    0.2487    0.2181    0.1874    0.1564
+
+  Columns 97 through 100
+
+    0.1253    0.0941    0.0628    0.0314
+
+  Columns 101 through 104
+
+    0.0000   -0.0314   -0.0628   -0.0941
+
+  Columns 105 through 108
+
+   -0.1253   -0.1564   -0.1874   -0.2181
+
+  Columns 109 through 112
+
+   -0.2487   -0.2790   -0.3090   -0.3387
+
+  Columns 113 through 116
+
+   -0.3681   -0.3971   -0.4258   -0.4540
+
+  Columns 117 through 120
+
+   -0.4818   -0.5090   -0.5358   -0.5621
+
+  Columns 121 through 124
+
+   -0.5878   -0.6129   -0.6374   -0.6613
+
+  Columns 125 through 128
+
+   -0.6845   -0.7071   -0.7290   -0.7501
+
+  Columns 129 through 132
+
+   -0.7705   -0.7902   -0.8090   -0.8271
+
+  Columns 133 through 136
+
+   -0.8443   -0.8607   -0.8763   -0.8910
+
+  Columns 137 through 140
+
+   -0.9048   -0.9178   -0.9298   -0.9409
+
+  Columns 141 through 144
+
+   -0.9511   -0.9603   -0.9686   -0.9759
+
+  Columns 145 through 148
+
+   -0.9823   -0.9877   -0.9921   -0.9956
+
+  Columns 149 through 152
+
+   -0.9980   -0.9995   -1.0000   -0.9995
+
+  Columns 153 through 156
+
+   -0.9980   -0.9956   -0.9921   -0.9877
+
+  Columns 157 through 160
+
+   -0.9823   -0.9759   -0.9686   -0.9603
+
+  Columns 161 through 164
+
+   -0.9511   -0.9409   -0.9298   -0.9178
+
+  Columns 165 through 168
+
+   -0.9048   -0.8910   -0.8763   -0.8607
+
+  Columns 169 through 172
+
+   -0.8443   -0.8271   -0.8090   -0.7902
+
+  Columns 173 through 176
+
+   -0.7705   -0.7501   -0.7290   -0.7071
+
+  Columns 177 through 180
+
+   -0.6845   -0.6613   -0.6374   -0.6129
+
+  Columns 181 through 184
+
+   -0.5878   -0.5621   -0.5358   -0.5090
+
+  Columns 185 through 188
+
+   -0.4818   -0.4540   -0.4258   -0.3971
+
+  Columns 189 through 192
+
+   -0.3681   -0.3387   -0.3090   -0.2790
+
+  Columns 193 through 196
+
+   -0.2487   -0.2181   -0.1874   -0.1564
+
+  Columns 197 through 200
+
+   -0.1253   -0.0941   -0.0628   -0.0314
+
+  Column 201
+
+   -0.0000
+
+plot(x,y)
+plot(x,y)
+plot(x,y)
+x = 0: pi/100:2*pi;
+y = sin(x)
+
+y =
+
+  Columns 1 through 10
+
+         0    0.0314    0.0628    0.0941    0.1253    0.1564    0.1874    0.2181    0.2487    0.2790
+
+  Columns 11 through 20
+
+    0.3090    0.3387    0.3681    0.3971    0.4258    0.4540    0.4818    0.5090    0.5358    0.5621
+
+  Columns 21 through 30
+
+    0.5878    0.6129    0.6374    0.6613    0.6845    0.7071    0.7290    0.7501    0.7705    0.7902
+
+  Columns 31 through 40
+
+    0.8090    0.8271    0.8443    0.8607    0.8763    0.8910    0.9048    0.9178    0.9298    0.9409
+
+  Columns 41 through 50
+
+    0.9511    0.9603    0.9686    0.9759    0.9823    0.9877    0.9921    0.9956    0.9980    0.9995
+
+  Columns 51 through 60
+
+    1.0000    0.9995    0.9980    0.9956    0.9921    0.9877    0.9823    0.9759    0.9686    0.9603
+
+  Columns 61 through 70
+
+    0.9511    0.9409    0.9298    0.9178    0.9048    0.8910    0.8763    0.8607    0.8443    0.8271
+
+  Columns 71 through 80
+
+    0.8090    0.7902    0.7705    0.7501    0.7290    0.7071    0.6845    0.6613    0.6374    0.6129
+
+  Columns 81 through 90
+
+    0.5878    0.5621    0.5358    0.5090    0.4818    0.4540    0.4258    0.3971    0.3681    0.3387
+
+  Columns 91 through 100
+
+    0.3090    0.2790    0.2487    0.2181    0.1874    0.1564    0.1253    0.0941    0.0628    0.0314
+
+  Columns 101 through 110
+
+    0.0000   -0.0314   -0.0628   -0.0941   -0.1253   -0.1564   -0.1874   -0.2181   -0.2487   -0.2790
+
+  Columns 111 through 120
+
+   -0.3090   -0.3387   -0.3681   -0.3971   -0.4258   -0.4540   -0.4818   -0.5090   -0.5358   -0.5621
+
+  Columns 121 through 130
+
+   -0.5878   -0.6129   -0.6374   -0.6613   -0.6845   -0.7071   -0.7290   -0.7501   -0.7705   -0.7902
+
+  Columns 131 through 140
+
+   -0.8090   -0.8271   -0.8443   -0.8607   -0.8763   -0.8910   -0.9048   -0.9178   -0.9298   -0.9409
+
+  Columns 141 through 150
+
+   -0.9511   -0.9603   -0.9686   -0.9759   -0.9823   -0.9877   -0.9921   -0.9956   -0.9980   -0.9995
+
+  Columns 151 through 160
+
+   -1.0000   -0.9995   -0.9980   -0.9956   -0.9921   -0.9877   -0.9823   -0.9759   -0.9686   -0.9603
+
+  Columns 161 through 170
+
+   -0.9511   -0.9409   -0.9298   -0.9178   -0.9048   -0.8910   -0.8763   -0.8607   -0.8443   -0.8271
+
+  Columns 171 through 180
+
+   -0.8090   -0.7902   -0.7705   -0.7501   -0.7290   -0.7071   -0.6845   -0.6613   -0.6374   -0.6129
+
+  Columns 181 through 190
+
+   -0.5878   -0.5621   -0.5358   -0.5090   -0.4818   -0.4540   -0.4258   -0.3971   -0.3681   -0.3387
+
+  Columns 191 through 200
+
+   -0.3090   -0.2790   -0.2487   -0.2181   -0.1874   -0.1564   -0.1253   -0.0941   -0.0628   -0.0314
+
+  Column 201
+
+   -0.0000
+
+plot(x,y)
+x = 0: pi/100:2*pi;
+y = sin(x);
+plot(x,y)
+x = 0:pi/100:2*pi;
+y = sin(x)
+
+y =
+
+  Columns 1 through 4
+
+         0    0.0314    0.0628    0.0941
+
+  Columns 5 through 8
+
+    0.1253    0.1564    0.1874    0.2181
+
+  Columns 9 through 12
+
+    0.2487    0.2790    0.3090    0.3387
+
+  Columns 13 through 16
+
+    0.3681    0.3971    0.4258    0.4540
+
+  Columns 17 through 20
+
+    0.4818    0.5090    0.5358    0.5621
+
+  Columns 21 through 24
+
+    0.5878    0.6129    0.6374    0.6613
+
+  Columns 25 through 28
+
+    0.6845    0.7071    0.7290    0.7501
+
+  Columns 29 through 32
+
+    0.7705    0.7902    0.8090    0.8271
+
+  Columns 33 through 36
+
+    0.8443    0.8607    0.8763    0.8910
+
+  Columns 37 through 40
+
+    0.9048    0.9178    0.9298    0.9409
+
+  Columns 41 through 44
+
+    0.9511    0.9603    0.9686    0.9759
+
+  Columns 45 through 48
+
+    0.9823    0.9877    0.9921    0.9956
+
+  Columns 49 through 52
+
+    0.9980    0.9995    1.0000    0.9995
+
+  Columns 53 through 56
+
+    0.9980    0.9956    0.9921    0.9877
+
+  Columns 57 through 60
+
+    0.9823    0.9759    0.9686    0.9603
+
+  Columns 61 through 64
+
+    0.9511    0.9409    0.9298    0.9178
+
+  Columns 65 through 68
+
+    0.9048    0.8910    0.8763    0.8607
+
+  Columns 69 through 72
+
+    0.8443    0.8271    0.8090    0.7902
+
+  Columns 73 through 76
+
+    0.7705    0.7501    0.7290    0.7071
+
+  Columns 77 through 80
+
+    0.6845    0.6613    0.6374    0.6129
+
+  Columns 81 through 84
+
+    0.5878    0.5621    0.5358    0.5090
+
+  Columns 85 through 88
+
+    0.4818    0.4540    0.4258    0.3971
+
+  Columns 89 through 92
+
+    0.3681    0.3387    0.3090    0.2790
+
+  Columns 93 through 96
+
+    0.2487    0.2181    0.1874    0.1564
+
+  Columns 97 through 100
+
+    0.1253    0.0941    0.0628    0.0314
+
+  Columns 101 through 104
+
+    0.0000   -0.0314   -0.0628   -0.0941
+
+  Columns 105 through 108
+
+   -0.1253   -0.1564   -0.1874   -0.2181
+
+  Columns 109 through 112
+
+   -0.2487   -0.2790   -0.3090   -0.3387
+
+  Columns 113 through 116
+
+   -0.3681   -0.3971   -0.4258   -0.4540
+
+  Columns 117 through 120
+
+   -0.4818   -0.5090   -0.5358   -0.5621
+
+  Columns 121 through 124
+
+   -0.5878   -0.6129   -0.6374   -0.6613
+
+  Columns 125 through 128
+
+   -0.6845   -0.7071   -0.7290   -0.7501
+
+  Columns 129 through 132
+
+   -0.7705   -0.7902   -0.8090   -0.8271
+
+  Columns 133 through 136
+
+   -0.8443   -0.8607   -0.8763   -0.8910
+
+  Columns 137 through 140
+
+   -0.9048   -0.9178   -0.9298   -0.9409
+
+  Columns 141 through 144
+
+   -0.9511   -0.9603   -0.9686   -0.9759
+
+  Columns 145 through 148
+
+   -0.9823   -0.9877   -0.9921   -0.9956
+
+  Columns 149 through 152
+
+   -0.9980   -0.9995   -1.0000   -0.9995
+
+  Columns 153 through 156
+
+   -0.9980   -0.9956   -0.9921   -0.9877
+
+  Columns 157 through 160
+
+   -0.9823   -0.9759   -0.9686   -0.9603
+
+  Columns 161 through 164
+
+   -0.9511   -0.9409   -0.9298   -0.9178
+
+  Columns 165 through 168
+
+   -0.9048   -0.8910   -0.8763   -0.8607
+
+  Columns 169 through 172
+
+   -0.8443   -0.8271   -0.8090   -0.7902
+
+  Columns 173 through 176
+
+   -0.7705   -0.7501   -0.7290   -0.7071
+
+  Columns 177 through 180
+
+   -0.6845   -0.6613   -0.6374   -0.6129
+
+  Columns 181 through 184
+
+   -0.5878   -0.5621   -0.5358   -0.5090
+
+  Columns 185 through 188
+
+   -0.4818   -0.4540   -0.4258   -0.3971
+
+  Columns 189 through 192
+
+   -0.3681   -0.3387   -0.3090   -0.2790
+
+  Columns 193 through 196
+
+   -0.2487   -0.2181   -0.1874   -0.1564
+
+  Columns 197 through 200
+
+   -0.1253   -0.0941   -0.0628   -0.0314
+
+  Column 201
+
+   -0.0000
+
+plot(x,y)
+xlabel(’x = 0:2\pi’)
+ xlabel(’x = 0:2\pi’)
+        ↑
+{Error: Invalid text character. Check for
+unsupported symbol, invisible character, or
+pasting of non-ASCII characters.
+} 
+xlabel('x = 0:2\pi')
+ylabel('Sine of x')
+title('Plot of the Sine function')
+
+x = 0:pi/100:2*pi;
+y1 = 2*cos(x);
+y2 = cos(x);
+y3 = 0.5*cos(x);
+plot(x,y1,’--’,x,y2,’-’,x,y3,’:’)
+ plot(x,y1,’--’,x,y2,’-’,x,y3,’:’)
+           ↑
+{Error: Invalid text character. Check for
+unsupported symbol, invisible character, or
+pasting of non-ASCII characters.
+} 
+plot(x,y1,'--',x,y2,'-',x,y3,':')
+ xlabel('0 \leq x \leq 2\pi')
+ylabel('Cosine functions')
+ legend(’2*cos(x)','cos(x)','0.5*cos(x)')
+  legend(’2*cos(x)','cos(x)','0.5*cos(x)')
+         ↑
+{Error: Invalid text character. Check for
+unsupported symbol, invisible character, or
+pasting of non-ASCII characters.
+} 
+legend('2*cos(x)','cos(x)','0.5*cos(x)')
+[Warning: Ignoring extra legend entries.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('legend>process_inputs', 'C:\Program Files\MATLAB\R2023a\toolbox\matlab\scribe\legend.m', 592)" style="font-weight:bold">legend>process_inputs</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2023a\toolbox\matlab\scribe\legend.m',592,0)">line 592</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('legend>make_legend', 'C:\Program Files\MATLAB\R2023a\toolbox\matlab\scribe\legend.m', 319)" style="font-weight:bold">legend>make_legend</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2023a\toolbox\matlab\scribe\legend.m',319,0)">line 319</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('legend', 'C:\Program Files\MATLAB\R2023a\toolbox\matlab\scribe\legend.m', 263)" style="font-weight:bold">legend</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2023a\toolbox\matlab\scribe\legend.m',263,0)">line 263</a>)] 
+title('Typical example of multiple plots')
+ axis([0 2*pi -3 3])
+axis([0 2*pi -3 3])
+plot(x,y1,'--',x,y2,'-',x,y3,':')
+xlabel('0 \leq x \leq 2\pi')
+ylabel('Cosine functions')
+legend('2*cos(x)','cos(x)','0.5*cos(x)')
+title('Typical example of multiple plots')
+axis([0 2*pi -3 3])
+v = [1 4 7 10 13]
+
+v =
+
+     1     4     7    10    13
+
+w = [1;4;7;10;13]
+
+w =
+
+     1
+     4
+     7
+    10
+    13
+
+ w = v’
+  w = v’
+       ↑
+{Error: Invalid text character. Check for unsupported
+symbol, invisible character, or pasting of non-ASCII
+characters.
+} 
+ w = v'
+
+w =
+
+     1
+     4
+     7
+    10
+    13
+
+v(1:3)
+
+ans =
+
+     1     4     7
+
+v(3,end)
+{Index in position 1 exceeds array bounds. Index must not
+exceed 1.
+} 
+v
+
+v =
+
+     1     4     7    10    13
+
+v(3,end)
+{Index in position 1 exceeds array bounds. Index must not
+exceed 1.
+} 
+v(3 , end)
+{Index in position 1 exceeds array bounds. Index must not
+exceed 1.
+} 
+v(1,end)
+
+ans =
+
+    13
+
+v(2,end)
+{Index in position 1 exceeds array bounds. Index must not
+exceed 1.
+} 
+v(3:end)
+
+ans =
+
+     7    10    13
+
+v(:)
+
+ans =
+
+     1
+     4
+     7
+    10
+    13
+
+v(1:end)
+
+ans =
+
+     1     4     7    10    13
+
+diary off
